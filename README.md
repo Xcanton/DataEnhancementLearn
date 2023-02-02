@@ -3,7 +3,7 @@
 [AugMix_DeepMind]:https://arxiv.org/abs/1912.02781v1
 
 ## :new_moon: Objective
-&ensp;&ensp;&ensp;&ensp;Most of the `_Deep Learning_` tasks are limited by their training datasets. Focusing on a specific objective, relative data could be rare or deficient. A manually labeled dataset could be a solution, but still facing quantity and quality problems. It is a worth considering question that, what can we do to improve the model performance via limited data. </br>&ensp;&ensp;&ensp;&ensp;It is important for models see various datas to achieve a robust outcome. They should see through phenomena and grasp the important pattern or factors. This is similar to the Ockham's Razor. In order to do so, `<b>_Data Enhancement_</b>` is expected. 
+&ensp;&ensp;&ensp;&ensp;Most of the _`Deep Learning`_ tasks are limited by their training datasets. Focusing on a specific objective, relative data could be rare or deficient. A manually labeled dataset could be a solution, but still facing quantity and quality problems. It is a worth considering question that, what can we do to improve the model performance via limited data. </br>&ensp;&ensp;&ensp;&ensp;It is important for models see various datas to achieve a robust outcome. They should see through phenomena and grasp the important pattern or factors. This is similar to the Ockham's Razor. In order to do so, <b>_`Data Enhancement`_</b> is expected. 
 
 - <b>_Data Enhancement_</b>
     - <b>_Supervised Methods_</b>
