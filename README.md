@@ -5,11 +5,22 @@
 Gray Scale
 Ockham's Razor
 
+## :new_moon: Objective
 
 
-## :waxing_gibbous_moon: Data Enhancement in Computer Vision
+## :waxing_crescent_moon: Geometric Transformation
 
-## :first_quarter_moon: Data Enhancement in Natural Language Processing
+## :first_quarter_moon: Color Noice Transformation
+
+## :waxing_gibbous_moon: Gray Scale Transformation
+
+## :full_moon: GAN Network Generation
+
+## :waning_gibbous_moon: Unsupervised Strages
+
+## :last_quarter_moon: Data Enhancement in Computer Vision
+
+## :waning_crescent_moon: Data Enhancement in Natural Language Processing
 
 
 # Reference
