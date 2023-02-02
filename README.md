@@ -15,17 +15,40 @@
         - _Unsupervised Strages_
 
 ## :waxing_crescent_moon: Geometric Transformation
-
-## :first_quarter_moon: Color Noice Transformation
+- Flip
+- Rotation/Reflection
+- Crop
+- Zoom
+## :first_quarter_moon: Color Transformation
+- Noise
+    - Gauss Noise
+    - CoarseDropout
+    - SimplexNoiseAlpha 
+    - FrequencyNoiseAlpha 
+- Pixel Transform
+    - Gauss Noise
+    - Salt-and-Pepper Noise
+    - Histogram Equalization
+    - Modify Hue, Saturation, Lightness
+    - Random Mask
+    - Color Jittering
 
 ## :waxing_gibbous_moon: Gray Scale Transformation
 
 ## :full_moon: GAN Network Generation
 
 ## :waning_gibbous_moon: Unsupervised Strages
+- AutoAugment
+- Population Based Augmentation (PBA)
 
 ## :last_quarter_moon: Data Enhancement in Computer Vision
-
+- Random erasing
+    - Image-aware Random Erasing (IRE)
+    - Object-aware Random Erasing (ORE)
+    - IRE + ORE
+- Cutout
+- Mixup
+- CoutMix
 ## :waning_crescent_moon: Data Enhancement in Natural Language Processing
 
 
